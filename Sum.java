@@ -4,6 +4,7 @@ public class Sum{
         int b = 43;
 
         System.out.println("The sum is "+(a+b));
+        System.out.println("The multiply is "+(a*b));
         
     }
 }
